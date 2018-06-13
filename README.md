@@ -1,7 +1,5 @@
 # 虚拟币交易APP
 
-服务器4-17号到期了，欢迎大家捐助（见底部），让这个开源 APP 运转下去。
-
 ### 部分 APP 界面 
 
 ![1home](https://user-images.githubusercontent.com/2621619/37186748-9d46828a-230c-11e8-8587-9719d3abc5a7.jpeg)
@@ -47,7 +45,7 @@
   }
 ```
 
-### 欢迎捐助
+### 扫码付款，联系 QQ：2 2 2 5 2 2 6
 
 ![img_1740](https://user-images.githubusercontent.com/2621619/37186912-6c34fb1c-230d-11e8-9e59-966473cb16a4.jpg)
 ![img_1741](https://user-images.githubusercontent.com/2621619/37187176-ad5381e4-230e-11e8-9e0f-00e5422d1baf.jpg)
