@@ -1,6 +1,8 @@
 # 虚拟币交易APP
 
-### 部分 APP 界面 
+有需要的朋友，可以购买源码！
+
+### 部分 APP 界面
 
 ![1home](https://user-images.githubusercontent.com/2621619/37186748-9d46828a-230c-11e8-8587-9719d3abc5a7.jpeg)
 ![2marketing](https://user-images.githubusercontent.com/2621619/37186749-9d807dfa-230c-11e8-8d8e-a39a08a6abb4.jpeg)
